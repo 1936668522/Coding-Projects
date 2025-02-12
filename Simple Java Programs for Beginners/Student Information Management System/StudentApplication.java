@@ -24,7 +24,7 @@ public class StudentApplication
 
 		Student[] student = new Student[MAX];//Maximum 100 students to be in student array.
 	
-		String fileName = "assg4_input.txt";
+		String fileName = "studentInfo.txt";
 		Scanner inputStream = null;
 				
 		String id = null; 
